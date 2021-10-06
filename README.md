@@ -8,3 +8,5 @@ NASCAR Data reveals example SQL Statements for aggregates and Geopoisitioning qu
 NASCAR needed a way to retrieve data from race cars traveling around a track at 200 MPH with no WIFI or Cellular coverage. After being received from the serial provider on a network port (Telnet) the messages needed to be parsed and transformed. 
 
 Impact: Built as a field gateway device to take raw data from the Network port in raw bits into json Messages sent to any application subscriber. 
+
+There are additional folders in the repo that describe scenarios where the data once collected is put into use. 
