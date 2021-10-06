@@ -1,0 +1,67 @@
+﻿{
+  "races": [
+    {
+      "locationName": "Bristol",
+      "window": {
+        "start": "04/14/2016",
+        "end": "04/18/2016"
+      }
+    },
+    {
+      "locationName": "Daytona",
+      "window": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "locationName": "Daytona",
+      "window": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "locationName": "Daytona",
+      "window": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "locationName": "Daytona",
+      "window": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "locationName": "Daytona",
+      "window": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "locationName": "Daytona",
+      "window": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "locationName": "Daytona",
+      "window": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "locationName": "Daytona",
+      "window": {
+        "start": "",
+        "end": ""
+      }
+    }
+  ]
+}
